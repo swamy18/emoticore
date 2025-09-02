@@ -34,7 +34,7 @@ The Emotion-Aware Text Summarizer is a sophisticated Python tool that goes beyon
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/emotion-aware-summarizer.git
+git clone https://github.com/swamy18/emotion-aware-summarizer.git
 cd emotion-aware-summarizer
 
 # Install dependencies
